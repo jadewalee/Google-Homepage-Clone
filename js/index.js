@@ -1,0 +1,1 @@
+alert("This is not the original web page of Google. This was designed to practice and improve my web desiging skills. The design layout and images are copyright to their respective owners.");
